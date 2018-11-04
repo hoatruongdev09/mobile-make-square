@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/Users/hoatruong/Documents/Unity Projects/Make_Squares/Assembly-CSharp-Editor-firstpass.csproj",
+  "TargetFramework": "v3.5",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
