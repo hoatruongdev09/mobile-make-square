@@ -1,6 +1,6 @@
 Android
 PlayerPath?
-/Users/hoatruong/Documents/Unity Projects/Make_Squares/Build/build 0.2.3.apk
+/Users/hoatruong/Documents/Unity Projects/Make_Squares/Build/build 0.2.4.apk
 5e958f197960c176659fa3ab97097c2f Assembly-CSharp.dll:.PopupControl
 05524b8f659e7bfe5756d1335fec24ba Stores.dll:UnityEngine.Purchasing.AsyncWebUtil
 05524b8f659e7bfe5756d1335fec24ba Stores.dll:UnityEngine.Purchasing.MoolahStoreImpl
